@@ -1,4 +1,4 @@
-# #33 Three Matchsticks #
+# #35 Three Matchsticks #
 
 ![1](/woorim/imgs/33_1.png)
 
